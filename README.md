@@ -1,8 +1,10 @@
 ## Hi there, this is Leandro Berg 👋
 
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroberg&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroberg&layout=compact&langs_count=7" />
+ <a href="javascript:void(0)">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandroberg&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroberg&layout=compact&langs_count=7" />
+ </a>
 </div>
 
 ### Just following GitHub tips here are some bullet point related to me:
